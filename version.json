@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/kivthenoor/sepangkita-releases/main/apk/SepangKita-1.0.0.apk",
-  "notesMs": "Keluaran pertama SepangKita.",
-  "notesEn": "First SepangKita release."
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://raw.githubusercontent.com/kivthenoor/sepangkita-releases/main/apk/SepangKita-1.0.1.apk",
+  "notesMs": "Ikon aplikasi baharu. Tajuk lebih jelas dalam mod gelap. Tetapan tidak lagi terlindung oleh butang telefon.",
+  "notesEn": "New app icon. Clearer titles in dark mode. Settings no longer hidden behind the phone's navigation buttons."
 }
