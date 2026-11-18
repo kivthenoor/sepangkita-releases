@@ -1,7 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://raw.githubusercontent.com/kivthenoor/sepangkita-releases/main/apk/SepangKita-1.0.2.apk",
-  "notesMs": "Pop-up bila versi baharu tersedia. Ikon aplikasi baharu dan pembaikan mod gelap.",
-  "notesEn": "A pop-up tells you when a new version is available. New app icon and dark mode fixes."
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://raw.githubusercontent.com/kivthenoor/sepangkita-releases/main/apk/SepangKita-1.0.3.apk",
+  "notesMs": "Keselamatan lebih ketat: kemas kini disemak dengan cap jari SHA-256 sebelum dipasang, dan kenalan keluarga tidak lagi disalin ke sandaran awan.",
+  "notesEn": "Stronger security: updates are checked against a SHA-256 fingerprint before installing, and family contacts are no longer copied to cloud backup.",
+  "sha256": "253d07da1664eef69f5c7799d7b7656d889ee5be9afd88deb13d2adf1b20bc07"
 }
