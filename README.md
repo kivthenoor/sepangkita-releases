@@ -1,8 +1,7 @@
 # SepangKita releases
 
 Download the latest Android APK of **SepangKita**, a flood watch app for the Sepang community
-(river levels, rainfall, CCTV, alerts and flood news), from the
-[Releases](https://github.com/kivthenoor/sepangkita-releases/releases) page.
+(river levels, rainfall, CCTV, alerts and flood news), from the [`apk`](apk) folder.
 
 Already installed? Open **Settings → Check for updates** in the app.
 
